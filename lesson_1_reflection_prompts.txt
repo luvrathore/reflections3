@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+Ans - From diff , we get those particular lines different from each other and hence we compare the codes to remove the bug
+ 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Ans - Entire history let us know about the Edit history of that file and hence we can grasp and figure out the solution and 
+      analyse that from where code have gone wrong.
+
+   
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Ans - Pos :-
+      We systematically commit the changes in our document according to the error solved.
+      Helps to create history acc. to the problem solved (Best for Coding)
+      According to personal convinience.
+      Cons - 
+      One may forget to change after editting.
+      Not good for text document , articles (anything but not codes)
+      History can be precisely browsed.
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Ans - In git , we work with loads of Multiple files containing loads of codes upto 1000 lines so treating each file seperately 
+      turns to be very slow and boring to work on such document hence working on multiple files in a commit is appreciated.
+
+How can you use the commands git log and git diff to view the history of files?
+Ans - I still dont know coz i have not use that :p
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+Ans - Coz in this lectire , we observe that VC allows you to access all commits easily and even help u to run instantly and able you to check them and 
+      at the same time , enable us to compare the codes in the commits by comparing them. 
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Ans - I want to use GitHub to work on ML and AI and use it for my field(Chemical Engineering) and I will try to link Chemical Engg with AI and ML.
+    Fill in your answer here
