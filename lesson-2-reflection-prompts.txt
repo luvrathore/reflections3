@@ -12,8 +12,14 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Ans - When we want to propose alternate change to the game,i.e. preferring other modes of that code.
+      Branches help by taking us to that particular commit present in the branch and allow us to make changes 
+      there.
+       
+
 
 How do the diagrams help you visualize the branch structure?
+Ans - Helps in seeing the true picture in much better manner.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
